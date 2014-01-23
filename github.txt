@@ -1,0 +1,5 @@
+git bash here
+- git status (check jika berwarna merah)
+	- git status *
+- git add *
+- 
